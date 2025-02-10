@@ -1,5 +1,5 @@
 # ReadMe: Azimuth Cell Annotation and Analysis
-
+## Author: Rishikesh Kakde (rkakde@iu.edu, rishikesh.kakde59@gmail.com)
 ## Project Overview
 This project focuses on annotating 10X snRNA-seq data of the human kidney using Azimuth, an R-based cell annotation tool, and visualizing the distribution of cell types in Python.
 
